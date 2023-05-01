@@ -1,0 +1,11 @@
+# Compiled object files
+*.o
+
+# Compiled executables
+wewatcher
+
+# macOS metadata files
+.DS_Store
+
+# Compiled C files
+*.out

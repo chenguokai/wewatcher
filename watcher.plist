@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.example.wewatcher</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/xim/Documents/watcher/wewatcher</string>
+        <string>/Users/xim/Library/Containers/com.tencent.xinWeChat/Data/Library/Application\ Support/com.tencent.xinWeChat/2.0b4.0.9/48e35a6532909240f95270e6cdb66825/Message/MessageTemp/76684e8cfd49b835cdcd0fb53e7fdbfc/</string>
+    </array>
+    <key>RunAtLoad</key>
+    <false/>
+</dict>
+</plist>
